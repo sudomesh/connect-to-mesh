@@ -6,7 +6,7 @@ This script has been tested on Debian Stretch.
 
 #### Dependencies
 
-You need to install [babeld](https://github.com/jech/babeld) and [tunneldigger](https://github.com/wlanslovenija/tunneldigger/).
+You need to install [babeld](https://github.com/jech/babeld) and [tunneldigger](https://github.com/wlanslovenija/tunneldigger/). See [tunneldigger-lab](https://github.com/sudomesh/tunneldigger-lab#prerequisites) for tips on compiling tunneldigger.
 
 #### Create a config file
 
